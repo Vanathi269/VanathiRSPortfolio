@@ -489,7 +489,7 @@ img {
 }
 .certificates{
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
   
   padding-bottom: 10px;
 }
